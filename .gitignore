@@ -1,1 +1,6 @@
 .idea
+/data/models/FUNSD/**
+/data/models/Lilt/**
+/data/checkpoints/**
+/data/images/**
+/data/logs/**
